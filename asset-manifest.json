@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/slavik2000-goit-react-hw-01-components11/static/css/main.7acaea2f.css",
+    "main.js": "/slavik2000-goit-react-hw-01-components11/static/js/main.07d3183d.js",
+    "index.html": "/slavik2000-goit-react-hw-01-components11/index.html",
+    "main.7acaea2f.css.map": "/slavik2000-goit-react-hw-01-components11/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/slavik2000-goit-react-hw-01-components11/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
